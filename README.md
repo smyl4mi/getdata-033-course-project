@@ -1,5 +1,5 @@
 ## Course Project - Getting and Cleaning Data
-This repository contains files submitted for grading for the **Getting and Cleaning Data** Track on the Data Science Specialisation on Cousera. The dataset used is (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and must be downloaded and unzipped, and the working directory set to the folder "UCI HAR Dataset". 
+This repository contains files submitted for grading for the **Getting and Cleaning Data** Track on the Data Science Specialisation on Cousera. The dataset used is https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and must be downloaded and unzipped, and the working directory set to the folder "UCI HAR Dataset". 
 
 ## Files 
 The repository contains the following files 
